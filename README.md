@@ -114,6 +114,7 @@ npx cypress run
 
 ## 📁 Estrutura do projeto
 ---
+<pre>
 teste-tecnico-trier-sistemas/
 │
 ├── cypress/
@@ -136,6 +137,7 @@ teste-tecnico-trier-sistemas/
 ├── package.json
 ├── tsconfig.json
 └── README.md
+</pre>
 
 ---
 
