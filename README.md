@@ -113,7 +113,7 @@ npx cypress run
 ---
 
 ## 📁 Estrutura do projeto
-
+---
 teste-tecnico-trier-sistemas/
 │
 ├── cypress/
@@ -121,7 +121,7 @@ teste-tecnico-trier-sistemas/
 │   │   └── login/
 │   │       ├── login.cy.ts
 │   │       └── login.feature
-│   │
+│   │   
 │   ├── fixtures/
 │   │   └── users.json
 │   │
